@@ -50,7 +50,7 @@ class colors extends StatelessWidget {
                   color: Color.fromARGB(255, 126, 52, 139)),
               memberandfamily(
                   name: "Red",
-                  number: "Red",
+                  number: " Red",
                   image: "assets/images/colors/color_red.png",
                   sound: "sounds/colors/red.wav",
                   color: Color.fromARGB(255, 126, 52, 139)),
